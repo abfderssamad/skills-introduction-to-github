@@ -1,0 +1,33 @@
+[
+  {
+    "id": "r1",
+    "question": {
+      "en": "I'm a blue city on Rif mountains, famous for alleys. What am I?",
+      "fr": "Je suis une ville bleue dans le Rif, célèbre pour ses ruelles. Qui suis-je ?",
+      "ar": "أنا مدينة زرقاء في جبال الريف، مشهورة بأزقتها. ما أنا؟"
+    },
+    "answer": { "en": "Chefchaouen", "fr": "Chefchaouen", "ar": "شفشاون" },
+    "image": "chefchaouen.jpg"
+  },
+  {
+    "id": "r2",
+    "question": {
+      "en": "A walled city with tanneries and medersas, ancient and wise.",
+      "fr": "Une ville fortifiée avec des tanneries et médersas, ancienne et sage.",
+      "ar": "مدينة مسورة بها دباغات ومدارس عتيقة وحكيمة."
+    },
+    "answer": { "en": "Fez", "fr": "Fès", "ar": "فاس" },
+    "image": "fes.jpg"
+  },
+  {
+    "id": "r3",
+    "question": {
+      "en": "A gnawa rhythm from Essaouira, strings and qraqeb unite.",
+      "fr": "Un rythme gnaoua d'Essaouira, cordes et qraqeb s'unissent.",
+      "ar": "إيقاع كناوي من الصويرة، توحد الأوتار والقرقاب."
+    },
+    "answer": { "en": "Gnawa Music", "fr": "Musique Gnaoua", "ar": "الموسيقى الكناوية" },
+    "image": "gnawa.jpg"
+  }
+]
+

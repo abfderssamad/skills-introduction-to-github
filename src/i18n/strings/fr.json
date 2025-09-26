@@ -1,0 +1,42 @@
+{
+  "language": {
+    "title": "Choisir la langue",
+    "arabic": "Arabe",
+    "french": "Français",
+    "english": "Anglais",
+    "continue": "Continuer"
+  },
+  "menu": {
+    "title": "VivaMaroc",
+    "riddle": "Jouer aux devinettes marocaines",
+    "explore": "Explorer Culture & Histoire",
+    "music": "Écouter la musique marocaine",
+    "privacy": "Politique de confidentialité"
+  },
+  "riddle": {
+    "title": "Devinettes marocaines",
+    "next": "Suivant",
+    "showAnswer": "Afficher la réponse",
+    "hideAnswer": "Masquer la réponse"
+  },
+  "explore": {
+    "title": "Explorer le Maroc",
+    "filters": {
+      "all": "Tous",
+      "tangible": "Matériel",
+      "intangible": "Immatériel",
+      "unesco": "UNESCO",
+      "national": "National"
+    }
+  },
+  "music": {
+    "title": "Musique marocaine",
+    "play": "Lecture",
+    "pause": "Pause",
+    "next": "Suivant"
+  },
+  "privacy": {
+    "title": "Politique de confidentialité"
+  }
+}
+

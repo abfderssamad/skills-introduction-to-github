@@ -1,0 +1,39 @@
+[
+  {
+    "id": "h1",
+    "title": { "en": "Medina of Fez", "fr": "Médina de Fès", "ar": "مدينة فاس القديمة" },
+    "intro": { "en": "A UNESCO World Heritage site.", "fr": "Site du patrimoine mondial de l'UNESCO.", "ar": "موقع تراث عالمي لليونسكو." },
+    "details": { "en": "Founded in the 9th century, renowned for its madrasas and tanneries.", "fr": "Fondée au IXe siècle, réputée pour ses medersas et tanneries.", "ar": "تأسست في القرن التاسع، مشهورة بالمدارس والدباغات." },
+    "category": "unesco",
+    "year": 1981,
+    "image": "fes_medina.jpg"
+  },
+  {
+    "id": "h2",
+    "title": { "en": "Argan, practices and know-how", "fr": "Arganier, pratiques et savoir-faire", "ar": "الأركان: ممارسات ومعارف" },
+    "intro": { "en": "Intangible heritage recognized by UNESCO.", "fr": "Patrimoine immatériel reconnu par l'UNESCO.", "ar": "تراث لامادي معترف به من اليونسكو." },
+    "details": { "en": "Traditional argan oil extraction and cultural practices in southwest Morocco.", "fr": "Extraction traditionnelle de l'huile d'argan et pratiques culturelles au sud-ouest du Maroc.", "ar": "استخراج زيت الأركان التقليدي والممارسات الثقافية في جنوب غرب المغرب." },
+    "category": "intangible",
+    "year": 2014,
+    "image": "argan.jpg"
+  },
+  {
+    "id": "h3",
+    "title": { "en": "Kasbah Ait Ben Haddou", "fr": "Ksar Aït Ben-Haddou", "ar": "قصبة آيت بن حدو" },
+    "intro": { "en": "Fortified village on caravan route.", "fr": "Village fortifié sur la route des caravanes.", "ar": "قرية محصنة على طريق القوافل." },
+    "details": { "en": "Earthen architecture, exemplar of pre-Saharan habitat.", "fr": "Architecture de terre, exemple d'habitat présaharien.", "ar": "عمارة ترابية، نموذج للسكن قبل الصحراوي." },
+    "category": "tangible",
+    "year": 1987,
+    "image": "ait_ben_haddou.jpg"
+  },
+  {
+    "id": "h4",
+    "title": { "en": "Moussem of Tan-Tan", "fr": "Moussem de Tan-Tan", "ar": "موسم طانطان" },
+    "intro": { "en": "Annual gathering of Saharan tribes.", "fr": "Rassemblement annuel des tribus sahariennes.", "ar": "تجمع سنوي للقبائل الصحراوية." },
+    "details": { "en": "Recognized by UNESCO for safeguarding cultural practices.", "fr": "Reconnu par l'UNESCO pour la sauvegarde des pratiques culturelles.", "ar": "معترف به من طرف اليونسكو لحماية الممارسات الثقافية." },
+    "category": "unesco",
+    "year": 2008,
+    "image": "tan_tan.jpg"
+  }
+]
+

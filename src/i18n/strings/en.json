@@ -1,0 +1,42 @@
+{
+  "language": {
+    "title": "Choose Language",
+    "arabic": "Arabic",
+    "french": "French",
+    "english": "English",
+    "continue": "Continue"
+  },
+  "menu": {
+    "title": "VivaMaroc",
+    "riddle": "Play Moroccan Riddle Game",
+    "explore": "Explore Culture & History",
+    "music": "Listen to Moroccan Music",
+    "privacy": "Privacy Policy"
+  },
+  "riddle": {
+    "title": "Moroccan Riddles",
+    "next": "Next",
+    "showAnswer": "Show Answer",
+    "hideAnswer": "Hide Answer"
+  },
+  "explore": {
+    "title": "Explore Morocco",
+    "filters": {
+      "all": "All",
+      "tangible": "Tangible",
+      "intangible": "Intangible",
+      "unesco": "UNESCO",
+      "national": "National"
+    }
+  },
+  "music": {
+    "title": "Moroccan Music",
+    "play": "Play",
+    "pause": "Pause",
+    "next": "Next"
+  },
+  "privacy": {
+    "title": "Privacy Policy"
+  }
+}
+
